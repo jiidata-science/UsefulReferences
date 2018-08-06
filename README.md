@@ -1,6 +1,7 @@
 # Useful References
 
-**TensorFlow (with keras) tutorials** [website link] https://www.tensorflow.org/tutorials/
+## TensorFlow (with keras) tutorials**
+*[website link] https://www.tensorflow.org/tutorials/*
 
 - Basic (image) classification: https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/basic_classification.ipynb
 
