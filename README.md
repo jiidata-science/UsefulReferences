@@ -82,6 +82,11 @@ https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/sa
 - udemy, course : https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MicrosoftAzure_v.PROF_la.EN_cc.UK_ti.6716&utm_content=deal4584&utm_term=_._ag_73899889433_._ad_375956900801_._kw__._de_m_._dm__._pl__._ti_dsa-774930029209_._li_9045972_._pd__._&matchtype=b&gclid=EAIaIQobChMIlLeFltie7QIViIxRCh0qkA-kEAAYASAAEgImCfD_BwE
 - Pluralsight Courses : https://www.pluralsight.com/courses/microsoft-azure-data-warehousing-plan?aid=701j0000001heIpAAI&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Dynamic&utm_content=&gclid=EAIaIQobChMIkaXw78nV7AIVB7DtCh3AJA0tEAAYASAAEgKke_D_BwE
 - Spark ETL with Databricks : https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse
+- azure-data-factory-sqldw-elt-pipeline (github codeset) : https://github.com/mspnp/azure-data-factory-sqldw-elt-pipeline
+- Automated Enterprise BI : https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-adf
+- What is Azure Analysis Services : https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview
+- Azure Machine Learning Guide and Tutorials : https://docs.microsoft.com/en-gb/azure/machine-learning/
+- Plural Sight Courses : https://www.pluralsight.com/courses/microsoft-azure-data-warehousing-plan
 
 ## Spark
 - Youtube course : https://m.youtube.com/playlist?list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO
