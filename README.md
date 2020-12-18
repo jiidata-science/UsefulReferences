@@ -1,5 +1,14 @@
 # Useful References
 
+# Papers with code 
+- https://paperswithcode.com/sota
+
+# Rules of Machine Learning
+- http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+# Consulting / Problem Structuring
+- Tools for better thinking: https://untools.co/
+
 ## Mathematics for data science
 - Explaining p-values: https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14
 - Book, Mathematics for ML: https://gwthomas.github.io/docs/math4ml.pdf
@@ -19,6 +28,8 @@
 - https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf
 
 ## Time Series Analysis
+- Forecasting Principles & Practice (e-book) : https://otexts.com/fpp2/index.html
+- Neural networks for algorithmic trading. Simple time series forecasting : https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a
 - Library for timeseries : https://github.com/tslearn-team/tslearn
 - Using ARIMA versus LSTMs : https://www.quora.com/When-should-I-use-an-RNN-LSTM-and-when-to-use-ARIMA-for-a-time-series-forecasting-problem-What-is-the-relation-between-them
 
@@ -27,6 +38,11 @@
 - tutorial : https://rstudio-pubs-static.s3.amazonaws.com/294627_5f7e9a449b6c442e806a4743f1b4f8a7.html
 - bayesian mmm : http://www.joshuakim.io/marketing-mix-modelling-with-bayesian-regression/
 - MMM Playbook : https://cartesianconsulting.com/wp-content/uploads/2017/06/Cartesian-MMM-Playbook-Mar-2017-LR.pdf
+
+## Marketing Spend Optimsiation
+- How to develop a digital marketing model for budget allocation : https://www.internetrix.com.au/blog/marketing-optimisation/
+- Digital Spend Optimisation with R (website) : https://analyticsprofile.com/business-analytics/how-to-optimise-digital-marketing-spend-using-linear-programming-in-r/
+- Optimizing Spend With Linear Programming : https://www.linkedin.com/pulse/optimizing-marketing-portfolio-through-linear-neelima-gaddam/
 
 ## TensorFlow (with keras) tutorials
 *[website link] https://www.tensorflow.org/tutorials/*
@@ -39,7 +55,6 @@ https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/ba
 https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/overfit_and_underfit.ipynb
 - Saving & storing models
 https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/save_and_restore_models.ipynb
-
 
 ## Machine Learning (various)
 - ML use case readiness checklist : https://services.google.com/fh/files/blogs/data-prep-checklist-ml-bd-wp-v2.pdf
@@ -63,6 +78,17 @@ https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/sa
 - List of competitive recommender algorithms : https://github.com/chihming/competitive-recsys
 - Various implementations of collaborative filtering : https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
 - Wide-and-deep recommender keras code : https://github.com/jrzaurin/Wide-and-Deep-Keras/blob/master/wide_and_deep_keras.py
+- Building Recommender Systems with Python | PyDate : https://www.youtube.com/watch?v=39vJRxIPSxw
+- Matrix Factorization with LightFM (code) : https://github.com/aayushmnit/cookbook
+
+## Customer Lifetime Value
+- Modelling CLV (paper) : http://www.producao.ufrgs.br/arquivos/disciplinas/495_serv_20090518_10_journal_of_service_research_-_lifetime_value.pdf
+- Estimating Customer CLV at Groupon : https://www.kdd.org/kdd2016/papers/files/adf0755-vanderveldAbr.pdf
+- Customer Lifetime Value and Defection Possibility Prediction Model using Machine Learning: An Application to a Cloud-based Software Company (paper) : https://www.researchgate.net/profile/Niken_Martono/publication/278647593_Lecture_Notes_in_Computer_Science/links/56e244b608ae4e3e94282539.pdf
+- ML Techniques for Estimating CLV (paper) : https://www.seas.upenn.edu/~cse400/CSE400_2013_2014/reports/13_report.pdf
+- CLV case study at Etsy (use case) : http://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf
+- Estimating CLV at Asos with Embeddings (paper) : https://arxiv.org/pdf/1703.02596.pdf
+- Churn Analysis with Deeplearning (website) : https://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html
 
 ## EDA 
 - https://www.linkedin.com/posts/stevenouri_innovation-artificialintelligence-machinelearning-activity-6738770920942501890-_s83
@@ -87,6 +113,10 @@ https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/sa
 - What is Azure Analysis Services : https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview
 - Azure Machine Learning Guide and Tutorials : https://docs.microsoft.com/en-gb/azure/machine-learning/
 - Plural Sight Courses : https://www.pluralsight.com/courses/microsoft-azure-data-warehousing-plan
+- Run Python scripts through Azure Data Factory : https://docs.microsoft.com/en-us/azure/batch/tutorial-run-python-batch-azure-data-factory
+- Azure AD application and service principal : https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
+- Loading data into Azure Synapse : https://www.sqlservercentral.com/articles/loading-data-in-azure-synapse-using-copy
+- Data Factory (course) : https://cloudacademy.com/course/design-document-data-flows-azure/azure-data-factory/
 
 ## Spark
 - Youtube course : https://m.youtube.com/playlist?list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO
@@ -103,4 +133,5 @@ https://github.com/tensorflow/models/blob/master/samples/core/tutorials/keras/sa
 - 21 React UI Component Libraries You Should Start Using from Today
 : https://medium.com/javascript-in-plain-english/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188
 
-
+## Software Engineering
+- Python Style Guide (Google, website) : https://google.github.io/styleguide/pyguide.html
